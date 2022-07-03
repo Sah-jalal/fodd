@@ -1,0 +1,213 @@
+.top-section{
+	background: #ff00bf;
+	display: block;
+	height: 70px;
+
+}
+.top-section-inner{
+	margin-left: 384px;
+	color: white;
+	padding-top: 15px;
+    font-family: emoji;
+}
+.apply-button{
+	border: 3px solid #00d9ff;
+	margin-left: 100px;
+}
+.panda-icon{
+	background: rgb(252, 250, 247);
+	height: 80px;
+	/* width: 100%; */
+	/* position: fixed; */
+	/* margin-left: 108px; */
+	
+}
+.margin-cai{
+	margin-left: 150px;
+	background: #00d9ff;
+	color: #ff00bf;
+	margin-right: 120PX;
+	border-radius: 10px;
+	font-style: italic;
+}
+.margin-cai:hover{
+	height: 40px;
+	width: 300px;
+	font-size: 33px;
+}
+
+.panda{
+	/* float: left; */
+	/* margin-left: 135px; */
+    margin-top: 28px;
+
+}
+.login{
+	/* float: right; */
+	margin-top: 30px;
+    /* margin-right: 129px; */
+    font-size: 24px;
+}
+.navbar {
+	overflow: hidden;
+	background-color: #333;
+	position: fixed; /* Set the navbar to fixed position */
+	top: 0; /* Position the navbar at the top of the page */
+	width: 100%; /* Full width */
+	border-radius: 10px;
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  /* Change background on mouse-over */
+  .navbar a:hover {
+	background: #ddd;
+	color: black;
+	border-radius: 10px;
+  }
+.img-section img{
+	width: 100%;
+	height: 800px;
+	/* margin-top: 81px; */
+}
+.img-section h1{
+	margin-top: -721px;
+    text-align: center;
+    background: rgb(164, 235, 235);
+    margin-left: 27px;
+    color:white;
+    font-size: 80px;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.from-section{
+	margin-top: 313px
+}
+.input-section{
+	float: left;
+	height: 64px;
+    width: 405px;
+    border-radius: 10px;
+    border: 2px solid green;
+	margin-top: 74px;
+    margin-left: 238px;
+}
+.button-section{
+	float: right;
+	margin-top: 74px;
+    margin-right: 310px;
+	font-size: 26px;
+}
+.button-section button{
+	height: 50px;
+    width: 100px;
+    background: rgb(143, 37, 37);
+    color: white;
+    font-style: italic;
+    border: 2px solid green;
+    border-radius: 10px;
+    font-size: 20px
+
+}
+.button-section button:hover{
+	height: 60px;
+    width: 110px;
+}
+.item-section h2{
+	margin-top: 171px;
+    margin-left: 237px;
+    background: rgb(6, 230, 200);
+    margin-right: 330px;
+    color: black;
+    font-size: 40px;
+	font-style: italic;
+	border-radius: 10px;
+}
+.img-size img{
+	height: 320px;
+	width: 380px;
+	margin-left: 22px;
+	position: relative;
+	
+}
+.img-size img:hover{
+	height: 330px;
+	width: 390px;
+}
+.img-size p{
+	margin-left: 22px;
+	color: white;
+	background: rgb(28, 13, 240);
+	margin-right: 15px;
+}
+.order-button{
+	margin-top: 288px;
+	margin-left: -380px;
+    border-radius: 10px;
+    background: hsl(34, 98%, 53%);
+    color: white;
+	position: absolute;
+	border: 2px solid white;
+}
+.order-button:hover{
+	height: 32px;
+    width: 112px;
+}
+.top-img-mithai{
+	margin-left: 47px;
+}
+#mithai-menu{
+	margin-top: 40px;
+	height: 400px;
+}
+.mithai-img img{
+	height: 220px;
+	width: 220px;
+	
+}
+.mithai-img img:hover{
+	height: 250px;
+	width: 250px;
+}
+.mithai-img:hover{
+	border: 3px solid whitesmoke;
+}
+.mithai-img button{
+	background: white;
+	color: white;
+	border: 0px;
+}
+.mithai-img:hover #frist-btn{
+	border-radius: 10px;
+	background: rgb(255, 159, 33);
+}
+.mithai-img:hover #last-btn{
+	border-radius: 10px;
+	background: rgb(16, 84, 233);
+	margin-left: 10px;
+}
+
+.mithai-img:hover .checked{
+	color: rgb(0, 162, 255);
+	background: black;
+}
+.last-section{
+	width: 100%;
+	height: 300px;
+	background:rgba(15, 107, 245, 0.781);
+	color: white;
+}
+.inpun-size{
+	width: 300px;
+}
+.sms-size{
+	width: 100%;
+	height: 100px;
+}
